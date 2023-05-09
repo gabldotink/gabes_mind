@@ -2,11 +2,11 @@
 SPDX-License-Identifier: CC0-1.0
 -->
 
-# gabe’s mind
-this repository contains the entire contents of my mind.
-(it might take a while to actually get there.)
+# Gabe’s mind
+This repository contains the entire contents of my mind.
+(It might take a while to actually get there.)
 
-dedicated to the public domain under
+Dedicated to the public domain under
 [Creative Commons Zero 1.0 Universal][1].
 
 [1]: https://creativecommons.org/publicdomain/zero/1.0/

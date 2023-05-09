@@ -1,0 +1,26 @@
+<!--
+SPDX-License-Identifier: CC0-1.0
+-->
+
+Pi (π) is an irrational number because it goes on for infinity.
+It’s been calculated to 31.4 trillion digits at Google,
+because it was funny. I still feel like it’s kind of weird, though?
+They presumably could have done more, but it was funny to do the
+first three digits, so they didn’t. Humanity really will just do whatever.
+
+All of that is kind of useless (not pointless, just useless) anyway,
+because NASA only uses about 15 digits to send rockets into space,
+and only about 40 to measure the universe with atomic precision.
+
+I used to be really confused about pi when I was younger,
+because I thought “never repeating” meant that it never
+repeated a number twice in a row. Either that, or a certain
+number pattern just never repeated, with the criteria
+for a “pattern” being some arbitrary number of consecutive digits,
+which obviously made even less sense, because whatever the number of digits
+that couldn’t be repeated was, they would almost certainly repeat
+_eventually_, _at some point_.
+
+The first digits of pi that I know are 3.141592653589.
+I know the first few of those because they were in
+_Phineas and Ferb_.
