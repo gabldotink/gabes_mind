@@ -1,0 +1,12 @@
+Comments in source code tells people what something in your code does,
+or yourself, because you don’t really know what it does either.
+
+Different languages have different comment formats.
+Some use a pound sign, or a hashtag, or whatever.
+Some use two slashes. Some evil ones use semicolons.
+Some languages support multi-line comments,
+which give a longer explanation or note over multiple lines,
+and they aren’t usually much fun to write.
+HTML and other SGML, as well as Markdown and wikicode and whatever,
+uses <!-- whatever these are -->, even if you only use one line.
+I think C uses /* this */? But I’m still too dumb to learn C.
