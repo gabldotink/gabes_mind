@@ -1,7 +1,3 @@
-<!--
-SPDX-License-Identifier: CC0-1.0
--->
-
 # Gabe’s mind
 This repository contains the entire contents of my mind.
 (It might take a while to actually get there.)
