@@ -10,7 +10,7 @@ first three digits, so they didn’t. Humanity really will just do whatever.
 
 All of that is kind of useless (not pointless, just useless) anyway,
 because NASA only uses about 15 digits to send rockets into space,
-and only about 40 to measure the universe with atomic precision.
+and it only takes around 40 to measure the universe with atomic precision.
 
 I used to be really confused about pi when I was younger,
 because I thought “never repeating” meant that it never
